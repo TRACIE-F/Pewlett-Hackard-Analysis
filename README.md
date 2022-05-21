@@ -9,17 +9,19 @@ Pewlett Hackard is looking ahead to prepare for the vacancies left by the impend
 
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 
-![Table 1](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.1.png)
-![Table 2](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.2.png)
-![Table 3](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.3.png)
-
-![Table 2.1](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%202.1.png)
 
 
-  * Point 1
-  * Point 2
-  * Point 3
-  * Point 4
+To analyze the data, I began by sorting it into four new tables:
+  * The first table found all current employees born betweek 1952 and 1955 - the employees most likely to retire soon.
+   * ![Table 1](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.1.png)
+  * The second table filtered our soon-to-be-retiring employees by their job title to begin to get an idea of where the gaps would happen.
+   *  ![Table 2](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.2.png)
+  * The next table took the list of retirment-age employees and counted the number of vacancies per job title, to assist in preparing for filling the right vacancies.
+   * ![Table 3](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.3.png)
+  * The final table determined mentorship eligibility. With a large number of vacancies about to open up, a strong mentorship program will be integral to success.
+   * ![Table 2.1](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%202.1.png)
+
+With these 
 
 ### Summary ###
 
