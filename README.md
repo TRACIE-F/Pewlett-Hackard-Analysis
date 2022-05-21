@@ -9,7 +9,7 @@ Pewlett Hackard is looking ahead to prepare for the vacancies left by the impend
 
 There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 
-!(Table 1)[https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.1.png]
+![Table 1](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.1.png)
 !(Table 2)[https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.2.png]
 !(Table 3)[https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.3.png]
 
