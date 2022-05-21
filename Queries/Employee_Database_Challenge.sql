@@ -149,11 +149,25 @@ ORDER BY
 -- Print
 SELECT * FROM mentorship_eligability
 
+-----------
+-- Counts!
+-----------
 
+SELECT
+	sum(rt.title_count)
+FROM
+	retiring_titles rt
+	
+SELECT
+	count(me.emp_no)
+FROM
+	mentorship_eligibility me
 
-
-
+SELECT
+	count(e.emp_no)
+FROM
+	employees e
 
 
 -- Code for table dropping
-DROP TABLE mentorship_eligability CASCADE;
+DROP TABLE count_titles CASCADE;
