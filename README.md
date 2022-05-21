@@ -46,4 +46,4 @@ Within the list of 1,549 employees eligible for mentorship, I wanted to know if 
 ![mentorship_titles](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/metorship_titles.png)
 
 **Retirement Title Counts**
-![Table 2.1](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%202.1.png)
+![Table 3](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/Deliverable%201.3.png)
