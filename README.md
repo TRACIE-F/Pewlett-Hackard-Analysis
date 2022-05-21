@@ -44,4 +44,4 @@ Pewlett Hackard has 300,024 employees.
 My first question - why would the mentorship program only be open to employees born in 1965? Are there better paramters to consider, like time with the company, years of experience in their role, or interest? Broadening that scope would help avoid future issues of large turnover. Prepare younger staff to step up into leadership roles early and minimize the efforts required for them to eventually step into senior leadership.
 
 Within the list of 1,549 employees eligible for mentorship,  
-!(mentorship_titles)[https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/metorship_titles.png]
+![mentorship_titles](https://github.com/TRACIE-F/Pewlett-Hackard-Analysis/blob/main/Resources/metorship_titles.png)
