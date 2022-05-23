@@ -168,6 +168,24 @@ SELECT
 FROM
 	employees e
 
+--------------------
+-- Mentorship Titles
+--------------------
+
+SELECT
+	me.title,
+	count(me.emp_no) as title_count
+INTO
+	mentored_titles
+FROM
+	mentorship_eligibility me
+GROUP BY
+	me.title
+ORDER BY
+	title_count desc
+
+-- Print
+SELECT * FROM mentored_titles
 
 -- Code for table dropping
 DROP TABLE count_titles CASCADE;
